@@ -1,5 +1,5 @@
 # Profile:
-🔭 I’m currently working on developing project with MERN stack<br>👯 I’m looking to collaborate on projects focused on AI & full-stack development <br>🌱 I’m currently learning .NET, C#, and cloud computing
+🔭 I’m currently working on developing project with MERN stack<br>👯 I’m looking to collaborate on projects focused on AI & full-stack development <br>🌱 I’m currently learning SpringBoot and cloud computing
 
 
 ## 🌐 Socials:
