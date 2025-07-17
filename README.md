@@ -2,7 +2,7 @@
 🔭 I’m currently working on developing project with MERN stack<br>👯 I’m looking to collaborate on projects focused on AI & full-stack development <br>🌱 I’m currently learning SpringBoot , cloud computing and Blockchain
 
 
-## 🌐 Socials:
+## 🌐 socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-p-4636ba258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abishek.nights@gmail.com) 
 
 # 💻 Tech Stack:
